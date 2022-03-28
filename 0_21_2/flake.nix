@@ -11,7 +11,6 @@
   inputs.src-npeg-0_21_2.ref   = "refs/tags/0.21.2";
   inputs.src-npeg-0_21_2.owner = "zevv";
   inputs.src-npeg-0_21_2.repo  = "npeg";
-  inputs.src-npeg-0_21_2.dir   = "";
   inputs.src-npeg-0_21_2.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

@@ -204,22 +204,22 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs_2",
-        "src-npeg-master": "src-npeg-master"
+        "src-npeg-0_27_0": "src-npeg-0_27_0"
       }
     },
-    "src-npeg-master": {
+    "src-npeg-0_27_0": {
       "flake": false,
       "locked": {
-        "lastModified": 1668495292,
-        "narHash": "sha256-crLqS+8uTf1wkAgW2HMDG/FA97TRZjsHakWmzQR9hcU=",
+        "lastModified": 1667820388,
+        "narHash": "sha256-Kvzsj71OTycAfpVftT8N4kZBfTXhzz7RZIoAFV0kCZQ=",
         "owner": "zevv",
         "repo": "npeg",
-        "rev": "8d5b44f429954fe72e5da4bfe8d8d8b65aabb8a4",
+        "rev": "4d0fc9b2c01c2d9e3582a916a09a139a3bc43e6e",
         "type": "github"
       },
       "original": {
         "owner": "zevv",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/0.27.0",
         "repo": "npeg",
         "type": "github"
       }
